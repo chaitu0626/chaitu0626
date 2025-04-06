@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Chaitanya Sambangi
+<h1 align="center">Hi there 👋, I am 
   <div class="badge-base LI-profile-badge" 
        data-locale="en_US" 
        data-size="medium" 
@@ -7,7 +7,7 @@
        data-vanity="adityapratap00" 
        data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityapratap00?trk=profile-badge">
-      Aditya Pratap
+      Chaitanya Sambangi
     </a>
   </div>
 </h1>
@@ -15,8 +15,8 @@
 <h3 align="center">On a road to Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityapratap00/">
-    <img align="center" alt="Aditya Pratap's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="[https://www.linkedin.com/in/adityapratap00/](https://www.linkedin.com/in/chaitanyasambangi-698bb6190/)">
+    <img align="center" alt="Chaitanya Sambangi's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
 
   <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=AdityaPratap.visitor-badge">
