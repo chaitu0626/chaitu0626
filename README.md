@@ -1,46 +1,48 @@
-<h1 align="center">Hi there 👋, I am Chaitanya Sambangi</h1>
-<h3 align="center">Front-End Developer | React & React Native Enthusiast</h3>
+<h1 align="center">Hi there 👋, I am Chaitanya Sambangi
+  <div class="badge-base LI-profile-badge" 
+       data-locale="en_US" 
+       data-size="medium" 
+       data-theme="dark" 
+       data-type="VERTICAL" 
+       data-vanity="adityapratap00" 
+       data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityapratap00?trk=profile-badge">
+      Aditya Pratap
+    </a>
+  </div>
+</h1>
+
+<h3 align="center">On a road to Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chaitanyasambangi-698bb6190/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=chaitu0626&label=visitors&color=0e75b6&style=flat" alt="chaitu0626" />
+  <a href="https://www.linkedin.com/in/adityapratap00/">
+    <img align="center" alt="Aditya Pratap's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&ensp;
+
+  <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=AdityaPratap.visitor-badge">
 </p>
 
----
+<br />
 
-## 📬 How to reach me:
-- Email: chaitusambangi06@gmail.com  
-- LinkedIn: [chaitanyasambangi](https://www.linkedin.com/in/chaitanyasambangi-698bb6190/)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
 
----
+- 📫 How to reach me **adityapratap00@gmail.com**
 
-## 🚀 Talking about Personal Stuffs:
-- 🌱 I’m currently learning **Full-Stack Development**
-- 💬 Ask me about: **React**, **React Native**, **JavaScript**, **TypeScript**
-- ⚡ Fun fact: I love solving bugs more than writing new features 😄
+### **Talking about Personal Stuffs:**
 
----
+- 🌱 I’m currently learning <b>React js</b>.<br> 
+- 💬 Ask me about **Javascript, C#, React, .NET Core**
 
-## 🛠️ Languages and Tools:
+### **Languages and Tools:**  
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b74c71c45727519c4ab56.gif" width="500" alt="coding-gif" />
-</p>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666227-ba908f80-eb18-11ea-9118-fdc1a845195b.png"></code>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666238-ced48c80-eb18-11ea-8279-66d4fbc90cc3.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
