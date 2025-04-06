@@ -19,19 +19,20 @@
     <img align="center" alt="Chaitanya Sambangi's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
 
-  <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=AdityaPratap.visitor-badge">
+  <img src="https://komarev.com/ghpvc/?username=chaitu0626&label=visitors&color=0e75b6&style=flat" alt="chaitu0626" />
 </p>
 
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
 
-- 📫 How to reach me **adityapratap00@gmail.com**
+- 📫 How to reach me **chaitusambangi06@gmail.com **
 
 ### **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning <b>React js</b>.<br> 
-- 💬 Ask me about **Javascript, C#, React, .NET Core**
+- 🌱 I’m currently learning **Full-Stack Development**
+- 💬 Ask me about: **React**, **React Native**, **JavaScript**, **TypeScript**
+- ⚡ Fun fact: I love solving bugs more than writing new features 😄
 
 ### **Languages and Tools:**  
 
